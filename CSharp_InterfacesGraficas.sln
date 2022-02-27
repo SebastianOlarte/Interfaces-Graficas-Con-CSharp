@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_WPF_InterfacesGraficas1", "01_WPF_InterfacesGraficas1\01_WPF_InterfacesGraficas1.csproj", "{ABE23D6B-9BF0-4E75-A062-EF3B5D6CE620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_WPF_InterfacesGraficas2", "01_WPF_InterfacesGraficas2\01_WPF_InterfacesGraficas2.csproj", "{08054CDD-CF61-45AD-8C53-5A27BECE5346}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_WPF_InterfacesGraficas3", "01_WPF_InterfacesGraficas3\01_WPF_InterfacesGraficas3.csproj", "{C4EDC9D4-82DB-4D5C-8584-F2FE495F9C4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_WPF_InterfacesGraficas4", "01_WPF_InterfacesGraficas4\01_WPF_InterfacesGraficas4.csproj", "{2CF38ED7-559E-4AED-94BC-8253D7309E17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_WPF_DependencyProperties1", "02_WPF_DependencyProperties1\02_WPF_DependencyProperties1.csproj", "{460919CD-D353-4981-89CD-BDF7C9FD3D70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_WPF_DataBinding1", "03_WPF_DataBinding1\03_WPF_DataBinding1.csproj", "{6CB963F7-0D5C-4331-BCDD-37F1D2B62EDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_WPF_INotifyPropertyChanged1", "04_WPF_INotifyPropertyChanged1\04_WPF_INotifyPropertyChanged1.csproj", "{501EEF72-BE5A-470A-B91A-471091DCA325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_WPF_ListBox1", "05_WPF_ListBox1\05_WPF_ListBox1.csproj", "{65EF54C1-7908-4F66-9E23-43D6383BC606}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_WPF_ComboBoxCheckBox1", "06_WPF_ComboBoxCheckBox1\06_WPF_ComboBoxCheckBox1.csproj", "{297924B8-46E7-4FF6-B60A-0500A94E5811}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_WPF_RadioButton1", "07_WPF_RadioButton1\07_WPF_RadioButton1.csproj", "{807820AA-D34C-47E8-B5EB-09AB4B16DD20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_WPF_BDSS_GestionPedidos", "08_WPF_BDSS_GestionPedidos\08_WPF_BDSS_GestionPedidos.csproj", "{E6CA31F0-6F20-4535-9BAD-7D834A116798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_WPF_CRUD_LINQ", "09_WPF_CRUD_LINQ\09_WPF_CRUD_LINQ.csproj", "{BB75C8DC-7B9F-4443-AE11-9C60C64FE4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE23D6B-9BF0-4E75-A062-EF3B5D6CE620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE23D6B-9BF0-4E75-A062-EF3B5D6CE620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE23D6B-9BF0-4E75-A062-EF3B5D6CE620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE23D6B-9BF0-4E75-A062-EF3B5D6CE620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08054CDD-CF61-45AD-8C53-5A27BECE5346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08054CDD-CF61-45AD-8C53-5A27BECE5346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08054CDD-CF61-45AD-8C53-5A27BECE5346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08054CDD-CF61-45AD-8C53-5A27BECE5346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EDC9D4-82DB-4D5C-8584-F2FE495F9C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EDC9D4-82DB-4D5C-8584-F2FE495F9C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EDC9D4-82DB-4D5C-8584-F2FE495F9C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EDC9D4-82DB-4D5C-8584-F2FE495F9C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF38ED7-559E-4AED-94BC-8253D7309E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF38ED7-559E-4AED-94BC-8253D7309E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF38ED7-559E-4AED-94BC-8253D7309E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF38ED7-559E-4AED-94BC-8253D7309E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460919CD-D353-4981-89CD-BDF7C9FD3D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460919CD-D353-4981-89CD-BDF7C9FD3D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460919CD-D353-4981-89CD-BDF7C9FD3D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460919CD-D353-4981-89CD-BDF7C9FD3D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB963F7-0D5C-4331-BCDD-37F1D2B62EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB963F7-0D5C-4331-BCDD-37F1D2B62EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB963F7-0D5C-4331-BCDD-37F1D2B62EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB963F7-0D5C-4331-BCDD-37F1D2B62EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501EEF72-BE5A-470A-B91A-471091DCA325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501EEF72-BE5A-470A-B91A-471091DCA325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501EEF72-BE5A-470A-B91A-471091DCA325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501EEF72-BE5A-470A-B91A-471091DCA325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EF54C1-7908-4F66-9E23-43D6383BC606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EF54C1-7908-4F66-9E23-43D6383BC606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EF54C1-7908-4F66-9E23-43D6383BC606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EF54C1-7908-4F66-9E23-43D6383BC606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297924B8-46E7-4FF6-B60A-0500A94E5811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297924B8-46E7-4FF6-B60A-0500A94E5811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297924B8-46E7-4FF6-B60A-0500A94E5811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297924B8-46E7-4FF6-B60A-0500A94E5811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807820AA-D34C-47E8-B5EB-09AB4B16DD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807820AA-D34C-47E8-B5EB-09AB4B16DD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807820AA-D34C-47E8-B5EB-09AB4B16DD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807820AA-D34C-47E8-B5EB-09AB4B16DD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CA31F0-6F20-4535-9BAD-7D834A116798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CA31F0-6F20-4535-9BAD-7D834A116798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CA31F0-6F20-4535-9BAD-7D834A116798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CA31F0-6F20-4535-9BAD-7D834A116798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB75C8DC-7B9F-4443-AE11-9C60C64FE4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB75C8DC-7B9F-4443-AE11-9C60C64FE4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB75C8DC-7B9F-4443-AE11-9C60C64FE4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB75C8DC-7B9F-4443-AE11-9C60C64FE4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00D0D4B-79B0-401A-8508-5432489062C4}
+	EndGlobalSection
+EndGlobal
