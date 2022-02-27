@@ -1,0 +1,24 @@
+﻿<Window x:Class="_03_WPF_DataBinding1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03_WPF_DataBinding1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <!--Data Binding OneWay: Del Slider al TextBox-->
+        <!--<TextBox Width="150" Name="MiCuadro" Margin="100" Text="{Binding ElementName = MiSlider, Path = Value, Mode = OneWay}"></TextBox>-->
+        
+        <!--Data Binding OneWayToSource: Del TextBox al Slider-->
+        <!--<TextBox Width="150" Name="MiCuadro" Margin="100" Text="{Binding ElementName = MiSlider, Path = Value, Mode = OneWayToSource}"></TextBox>-->
+        
+        <!--Data Binding TwoWay: Bidireccional. Del Slider al TextBox y del TextBox al Slider-->
+        <TextBox Width="150" Name="MiCuadro" Margin="100" Text="{Binding ElementName = MiSlider, Path = Value, Mode = TwoWay}"></TextBox>
+
+        <!--Data Binding OneTime: Una sola vez desde el Slider al TextBox. Cuando se cargan los elementos-->
+        <!--<TextBox Width="150" Name="MiCuadro" Margin="100" Text="{Binding ElementName = MiSlider, Path = Value, Mode = OneTime}"></TextBox>-->
+        
+        <Slider Width="350" Name="MiSlider" Minimum="0" Maximum="100" Value="50"></Slider>
+    </StackPanel>
+</Window>
