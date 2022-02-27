@@ -20,3 +20,25 @@ C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\04_WPF_INotifyP
 C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\ref\04_WPF_INotifyPropertyChanged1.dll
 C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.pdb
 C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.genruntimeconfig.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.exe
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.deps.json
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.runtimeconfig.json
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.runtimeconfig.dev.json
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.dll
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\ref\04_WPF_INotifyPropertyChanged1.dll
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\bin\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.pdb
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.csproj.AssemblyReference.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\App.g.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1_MarkupCompile.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1_MarkupCompile.lref
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.g.resources
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.AssemblyInfoInputs.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.AssemblyInfo.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.csproj.CoreCompileInputs.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.dll
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\ref\04_WPF_INotifyPropertyChanged1.dll
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.pdb
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\04_WPF_INotifyPropertyChanged1\obj\Debug\net5.0-windows\04_WPF_INotifyPropertyChanged1.genruntimeconfig.cache
