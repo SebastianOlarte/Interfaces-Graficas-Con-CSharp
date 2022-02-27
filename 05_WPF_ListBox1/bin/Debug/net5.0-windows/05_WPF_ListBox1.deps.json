@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "05_WPF_ListBox1/1.0.0": {
+        "runtime": {
+          "05_WPF_ListBox1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05_WPF_ListBox1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
