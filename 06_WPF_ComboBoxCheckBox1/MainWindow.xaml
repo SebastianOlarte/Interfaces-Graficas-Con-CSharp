@@ -1,0 +1,41 @@
+﻿<Window x:Class="_06_WPF_ComboBoxCheckBox1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_06_WPF_ComboBoxCheckBox1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900">
+    <Grid Margin="10" Background="Aqua">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin=" 5 50 0 0">
+            <ComboBox Name="Capitales">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding NombreCapital}" FontSize="18"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="5 42 0 0">
+            <Label FontSize="18" FontWeight="UltraBlack">PAISES</Label>
+            <CheckBox Name="TodasCapitales" IsThreeState="True" FontSize="16" FontWeight="Black" Margin="0 5 0 0" Checked="TodasCapitales_Checked" Unchecked="TodasCapitales_Unchecked">Seleccionar Todas Las Capitales</CheckBox>
+            <StackPanel Margin="0 20 0 0"></StackPanel>
+            <CheckBox Name="Madrid" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Madrid</CheckBox>
+            <CheckBox Name="Bogota" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Bogotá</CheckBox>
+            <CheckBox Name="Paris" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">París</CheckBox>
+            <CheckBox Name="Berlin" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Berlín</CheckBox>
+            <CheckBox Name="Lima" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Lima</CheckBox>
+            <CheckBox Name="BuenosAires" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Buenos Aires</CheckBox>
+            <CheckBox Name="Santiago" FontSize="16" FontWeight="Black" Checked="One_Capital_Checked" Unchecked="One_Capital_UnChecked">Santiago</CheckBox>
+        </StackPanel>
+
+    </Grid>
+</Window>
