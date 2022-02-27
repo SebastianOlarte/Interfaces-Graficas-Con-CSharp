@@ -1,0 +1,34 @@
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.exe.config
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.exe
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.pdb
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.AssemblyReference.cache
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\Actualiza.g.cs
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\MainWindow.g.cs
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\App.g.cs
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos_MarkupCompile.cache
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos_MarkupCompile.lref
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\Actualiza.baml
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\MainWindow.baml
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.g.resources
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\_08_WPF_BDSS_GestionPedidos.Properties.Resources.resources
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.GenerateResource.cache
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.exe
+C:\Users\sebastian.olarte\source\repos\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.pdb
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.exe.config
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.exe
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\bin\Debug\08_WPF_BDSS_GestionPedidos.pdb
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.AssemblyReference.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\Actualiza.g.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\MainWindow.g.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\App.g.cs
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos_MarkupCompile.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos_MarkupCompile.lref
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\Actualiza.baml
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\MainWindow.baml
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.g.resources
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\_08_WPF_BDSS_GestionPedidos.Properties.Resources.resources
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.GenerateResource.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.csproj.CoreCompileInputs.cache
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.exe
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\08_WPF_BDSS_GestionPedidos\obj\Debug\08_WPF_BDSS_GestionPedidos.pdb

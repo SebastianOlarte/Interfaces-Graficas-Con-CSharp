@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svIkgqNxvJtiRaRg8dqgFv23oyEMO0LKrtWGwI4/xBxblx8Fd7CIqcFpQ2SnjUSs2fuKO9V2z82Z8h8gspP7mw==",
+  "dgSpecHash": "g2z06NhtQJGnilXWULFEIUWCZ6Lne8hM56VXJ5thA/OcCgpmK5ePD8RAibTrGmgf69KHDydOHY6pbyM2A5bKaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebastian.olarte\\source\\repos\\CSharp_InterfacesGraficas\\02_WPF_DependencyProperties1\\02_WPF_DependencyProperties1.csproj",
+  "projectFilePath": "D:\\Desarrollando Con CSharp\\CSharp_InterfacesGraficas\\02_WPF_DependencyProperties1\\02_WPF_DependencyProperties1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
