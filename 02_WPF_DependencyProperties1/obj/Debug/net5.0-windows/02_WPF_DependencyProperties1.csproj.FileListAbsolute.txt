@@ -26,6 +26,7 @@ D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyPropertie
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\bin\Debug\net5.0-windows\02_WPF_DependencyProperties1.dll
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\bin\Debug\net5.0-windows\ref\02_WPF_DependencyProperties1.dll
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\bin\Debug\net5.0-windows\02_WPF_DependencyProperties1.pdb
+D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\obj\Debug\net5.0-windows\02_WPF_DependencyProperties1.csproj.AssemblyReference.cache
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\obj\Debug\net5.0-windows\App.g.cs
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\02_WPF_DependencyProperties1\obj\Debug\net5.0-windows\02_WPF_DependencyProperties1_MarkupCompile.cache
