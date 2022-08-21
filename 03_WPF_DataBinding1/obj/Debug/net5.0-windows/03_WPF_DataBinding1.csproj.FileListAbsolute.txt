@@ -27,7 +27,6 @@ D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\bin\De
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\bin\Debug\net5.0-windows\03_WPF_DataBinding1.dll
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\bin\Debug\net5.0-windows\ref\03_WPF_DataBinding1.dll
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\bin\Debug\net5.0-windows\03_WPF_DataBinding1.pdb
-D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\obj\Debug\net5.0-windows\03_WPF_DataBinding1.csproj.AssemblyReference.cache
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\obj\Debug\net5.0-windows\App.g.cs
 D:\Desarrollando Con CSharp\CSharp_InterfacesGraficas\03_WPF_DataBinding1\obj\Debug\net5.0-windows\03_WPF_DataBinding1_MarkupCompile.cache
